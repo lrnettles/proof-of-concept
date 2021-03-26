@@ -6,6 +6,8 @@ sidenav: false
 
 # Section heading (h1)
 
+It would take some time, but we could divide the large 'policy' documents up into sections like this.  Like the ARS for those that want to link to the sections that apply to them.
+
 The page heading communicates the main focus of the page. Make your page heading descriptive and keep it succinct.
 
 We can also use variables in our pages. For example, this is the title variable: **{{page.title}}**
