@@ -87,7 +87,7 @@ primary_navigation:
   - name: Business Owner
     url: /documentBO/
   - name: ARS
-    url: /ARS_3.1_Publication/
+    url: /ARS/
   - name: Document submenu
     children:
       - name: Navigation link
