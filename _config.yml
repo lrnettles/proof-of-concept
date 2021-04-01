@@ -21,8 +21,7 @@
 title: CMS Information Security and Privacy
 email: contact@example.gov
 description: >- # this means to ignore newlines until "baseurl:"
-  Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.
+  Centers for Medicare and Medicaid Serivces
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://example.gov" # the base hostname & protocol for your site, e.g. https://example.com. 
   # Required to support the jekyll-sitemap plugin below.
@@ -81,9 +80,13 @@ primary_navigation:
     url: /
   - name: Blog
     url: /blog/
-  - name: Document
+  - name: ISSO
     url: /document/
-  - name: Document with sidenav
+     - name: CRA
+    url: /documentCRA/
+     - name: Business Owner
+    url: /documentBO/
+  - name: ARS
     url: /document-with-sidenav/
   - name: Document submenu
     children:
