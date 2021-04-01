@@ -1,9 +1,11 @@
-[ARS_3.1_Publication.pdf](https://github.com/lrnettles/proof-of-concept/files/6245517/ARS_3.1_Publication.pdf)
 ---
 title: Document with Sidenav
 layout: page
 sidenav: true
 ---
+
+[ARS_3.1_Publication.pdf](https://github.com/lrnettles/proof-of-concept/files/6245517/ARS_3.1_Publication.pdf)
+
 
 # Section heading (h1)
 
