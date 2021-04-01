@@ -3,7 +3,6 @@ title: ARS
 layout: page
 sidenav: false
 ---
-# Section heading (h1)
 
 # AC-01	Access Control Policy and Procedures (High; Moderate; Low)	Assurance	P1
 Control:
