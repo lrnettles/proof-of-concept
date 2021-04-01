@@ -4,7 +4,7 @@ layout: page
 sidenav: false
 ---
 
-# AC-01	Access Control Policy and Procedures (High; Moderate; Low)	Assurance	P1
+### AC-01	Access Control Policy and Procedures (High; Moderate; Low)	Assurance	P1
 Control:
 The organization:
 a.	Develops, documents, and disseminates to applicable personnel:
@@ -37,7 +37,7 @@ Interview: Organizational personnel with access control responsibilities. Verify
 2.	Know of and understand Access Control policy and procedures; and
 3.	Are responsible for reviewing and updating Access Control policy and procedures no less often than required.
 
-# AC-02	Account Management (High; Moderate; Low)	P1
+### AC-02	Account Management (High; Moderate; Low)	P1
 Control:		
 The organization:
 a.	Identifies and selects the following types of information system accounts to support organizational missions/business functions: individual, group, system, application, guest/anonymous, emergency, and temporary;
