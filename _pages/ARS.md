@@ -8,11 +8,11 @@ sidenav: false
 Control:
 The organization:
 
-    a.	Develops, documents, and disseminates to applicable personnel:
-    
-     1.	An access control policy that addresses purpose, scope, roles, responsibilities, management commitment,  
+    a. Develops, documents, and disseminates to applicable personnel:
+
+        1.	An access control policy that addresses purpose, scope, roles, responsibilities, management commitment,  
         coordination among organizational entities, and compliance; and
-     2.	Procedures to facilitate the implementation of the access control policy and associated access controls; and
+        2.  Procedures to facilitate the implementation of the access control policy and associated access controls; and
  
    b.	Reviews and updates (as necessary) the current:
    
