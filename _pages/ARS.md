@@ -7,6 +7,7 @@ sidenav: false
 ### AC-01	Access Control Policy and Procedures (High; Moderate; Low)	Assurance	P1
 Control:
 The organization:
+
     a.	Develops, documents, and disseminates to applicable personnel:
     
      1.	An access control policy that addresses purpose, scope, roles, responsibilities, management commitment,  
