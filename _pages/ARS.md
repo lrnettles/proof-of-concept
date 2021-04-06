@@ -7,15 +7,22 @@ sidenav: false
 ### AC-01	Access Control Policy and Procedures (High; Moderate; Low)	Assurance	P1
 Control:
 The organization:
-  a.	Develops, documents, and disseminates to applicable personnel:
+
+   a.	Develops, documents, and disseminates to applicable personnel:
+  
     1.	An access control policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+   
     2.	Procedures to facilitate the implementation of the access control policy and associated access controls; and
-  b.	Reviews and updates (as necessary) the current:
-    1.	Access control policy at least every three (3) years; and
-    2.	Access control procedures at least every three (3) years.
+ 
+   b.	Reviews and updates (as necessary) the current:
+   
+      1.	Access control policy at least every three (3) years; and
+   
+      2.	Access control procedures at least every three (3) years.
 
 #### Implementation Standards:
 ##### Systems processing, storing, or transmitting PHI:
+
   PHI.1 - The organization develops, disseminates, and reviews/updates the access control policies and procedures complying with the HIPAA Minimum Necessary Rule and permitted   or required uses and disclosures, to limit unnecessary or inappropriate access to PHI.
 
 
@@ -47,8 +54,11 @@ Examine: Examine document transmission logs or audit logs or records to confirm 
 Examine: Examine policy and procedure documents to verify that responsible personnel are required to review the access control policy and procedures within the required timeframe and to update as necessary. Examine document changes, document revision records, after-action reports, etc., to ensure reviews were conducted.
 
 Interview: Organizational personnel with access control responsibilities. Verify that personnel:
+
 1.	Confirm their respective roles with Access Control policy;
+
 2.	Know of and understand Access Control policy and procedures; and
+
 3.	Are responsible for reviewing and updating Access Control policy and procedures no less often than required.
 
 ### AC-02	Account Management (High; Moderate; Low)	P1
